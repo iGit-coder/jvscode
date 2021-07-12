@@ -1,0 +1,2 @@
+class=com.example.impls.ServiceA
+method=doSomething
