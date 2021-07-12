@@ -12,7 +12,7 @@ public class App {
         // TestInterface ti =  new CharsetDemo();
         // ti = new CurrentSynch();
         // ti = new AbstractClass();
-        ti = new ReflectDemo();
+        ti = new ReflectDemo();//成功了！
 
 
         ti.test();
